@@ -4,3 +4,6 @@
 
 ### Problem Statement : Build a Figma File & Content type from a Sketch or Image:
 Using AI algorithms such as RAG, Knowledge graphs, (but not limited to) create a Figma design file & Content type based on an input sketch or image or just a prompt. This should be available as a Page extension.
+
+https://github.com/user-attachments/assets/d74addc5-da7b-4213-9345-d8bda661daea
+
